@@ -1,45 +1,21 @@
-# tragedienne8-hub 🦉
+# 🌟 Добро пожаловать на мой профиль
+![Profile Views](https://komarev.com/ghpvc/?username=tragedienne8-hub&label=Profile%20Views&color=blue&style=flat)
 
-欢迎来到我的GitHub主页！我是一个数据科学领域的探索者，喜欢用数据解密世界的奥秘。
+## 🔍 Обо мне
+Я занимаюсь разработкой и применением алгоритмов машинного обучения для решения реальных задач. Исследую различные подходы и стремлюсь к постоянному развитию.
 
----
+## 🚀 Основные достижения
+- Успешная реализация проекта по предсказанию churn rate для стартапа.
+- Участие в международной конференции по машинному обучению.
+- Разработка нескольких открытых библиотек для обучения и предсказания.
 
-## 🔍 关于我
-- 数据分析爱好者
-- 机器学习学习者
-- 热衷于可视化和统计建模
-- 努力将复杂的数据转化为简洁的见解
+## ⚙️ Инструменты
+![Python](https://shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://shields.io/badge/-TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) ![Pandas](https://shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
----
+## ✉️ Контакты
+- [GitHub профиль](https://github.com/tragedienne8-hub)
+- [Telegram](https://t.me/tragedienne8-hub)
 
-## 🚀 重点项目
-- **数据清洗与探索**  
-  通过Python和Pandas进行数据清理，构建数据集。
-- **机器学习模型**  
-  构建和优化预测模型，使用Scikit-learn和TensorFlow。
-- **数据可视化**  
-  用Matplotlib和Seaborn展示数据故事。
+<!--fp:1755005978-7169:tragedienne8-hub:machine-learning:ru--> 
 
----
-
-## 💻 技术栈
-- **编程语言**：Python, R, SQL  
-- **数据工具**：Pandas, Numpy, Scikit-learn, Matplotlib  
-- **数据库**：PostgreSQL, MySQL
-
----
-
-## 📈 统计数据
-![Profile Views](https://komarev.com/ghpvc/?username=tragedienne8-hub&label=Profile%20Views&color=blue&style=flat)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tragedienne8-hub&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tragedienne8-hub&layout=compact&theme=radical)  
-![Streak Stats](https://streak-stats.demolab.com/?user=tragedienne8-hub&theme=radical)
-
----
-
-## 📬 联系我
-- GitHub: [tragedienne8-hub](https://github.com/tragedienne8-hub)  
-- 邮箱: trag8@datahub.com  
-- 随时欢迎交流数据科学相关问题！
-
-感谢访问我的页面！希望我们能分享知识与经验！
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tragedienne8-hub&layout=compact&theme=dracula" height="130"/> <img src="https://github-readme-stats.vercel.app/api?username=tragedienne8-hub&show_icons=true&theme=dracula" height="130"/></p>
